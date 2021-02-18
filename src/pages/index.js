@@ -2,7 +2,7 @@ import useStore from '@/helpers/store'
 import dynamic from 'next/dynamic'
 import Go from '@/components/dom/go'
 
-const Sphere = dynamic(() => import('@/components/canvas/Sphere'), {
+const Sphere = dynamic(() => import('@/sandboxes/Sphere/Example'), {
   ssr: false,
 })
 
