@@ -1,6 +1,6 @@
 {
-  "name": "@visx/demo-example",
-  "description": "Standalone visx demo.",
+  "name": "@react-three/drei-example",
+  "description": "Standalone drei demo.",
   "main": "index.tsx",
   "private": true,
   "dependencies": {
